@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **premanshusinhadlf@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10wZ8JWzk9H4d9eETC6zOdwM9xO2mfl6W/view?usp=sharing](https://drive.google.com/file/d/10wZ8JWzk9H4d9eETC6zOdwM9xO2mfl6W/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10wZ8JWzk9H4d9eETC6zOdwM9xO2mfl6W/view?usp=sharing](My Resume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
