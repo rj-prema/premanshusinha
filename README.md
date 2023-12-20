@@ -11,10 +11,6 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10wZ8JWzk9H4d9eETC6zOdwM9xO2mfl6W/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sinhapremanshu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sinhapremanshu1" height="30" width="40" /></a>
